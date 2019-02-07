@@ -1,6 +1,17 @@
-# React-Boilerplate
-This is my react-boilerplate
-## Setup
+## Environments
+
+### Local:
+```
 npm install
-npm run build
+```
+```
 npm start
+```
+Local Environment will be running at http://localhost:3000/
+
+### Deploying:
+```
+npm run build
+```
+
+Compiled files are in /build
