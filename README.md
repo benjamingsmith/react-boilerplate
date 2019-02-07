@@ -15,3 +15,5 @@ npm run build
 ```
 
 Compiled files are in /build
+
+'static,json' file included for heroku to recognize routes
